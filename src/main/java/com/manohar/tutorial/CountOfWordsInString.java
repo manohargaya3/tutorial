@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.regex.Pattern;
 
-public class PracticeSession {
+public class CountOfWordsInString {
 
     public static void main(String args[]){
         String input = "this is what we know about this and this is awesome";
